@@ -10,10 +10,21 @@ function App() {
           </h1>
         </div>
         <div className='sub header'>
-            <h3 className='completion-status'>
-              Win/Lose
-            </h3>
-          </div>
+          <h3 className='completion-status'>
+            Win/Lose
+          </h3>
+        </div>
+        <div className='category-wrapper'>
+          <h4 className='category'>
+            Category
+          </h4>
+        </div>
+        <div className='hint wrapper'>
+          <h5 className='hint'>
+            Hint
+          </h5>
+        </div>
+        
       </div>
     </div>
   );

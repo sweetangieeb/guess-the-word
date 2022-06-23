@@ -24,7 +24,7 @@ function App() {
             Hint
           </h5>
         </div>
-        
+
       </div>
     </div>
   );

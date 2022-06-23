@@ -9,4 +9,94 @@ export const guessingWords = [
     hint: '',
     answer: ''
   },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
+  {
+    category: '',
+    hint: '',
+    answer: ''
+  },
 ];

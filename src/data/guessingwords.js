@@ -17,7 +17,7 @@ export const guessingWords = [
   {
     category: 'food',
     hint: 'breakfast',
-    answer: 'frenchtoast'
+    answer: 'french toast'
   },
   {
     category: 'us city',

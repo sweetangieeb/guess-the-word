@@ -1,102 +1,102 @@
 export const guessingWords = [
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'food',
+    hint: 'fruit',
+    answer: 'passionfruit'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'food',
+    hint: 'fruit',
+    answer: 'mango'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'food',
+    hint: 'breakfast',
+    answer: 'oatmeal'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'food',
+    hint: 'breakfast',
+    answer: 'frenchtoast'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'us city',
+    hint: 'midwest',
+    answer: 'chicago'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'us city',
+    hint: 'east coast',
+    answer: 'miami'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'us city',
+    hint: 'west coast',
+    answer: 'tuscon'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'us city',
+    hint: 'midwest',
+    answer: 'columbus'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'accesories',
+    hint: 'hair',
+    answer: 'bobbypin'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'accessories',
+    hint: 'phone',
+    answer: 'headphones'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'accessories',
+    hint: 'car',
+    answer: 'GPS'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'accessories',
+    hint: 'fashion',
+    answer: 'sunglasses'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'summer',
+    hint: 'activity',
+    answer: 'barbecue'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'summer',
+    hint: 'sport',
+    answer: 'volleyball'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'summer',
+    hint: 'drink',
+    answer: 'smoothie'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'summer',
+    hint: 'flower',
+    answer: 'lavender'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'begins with N',
+    hint: 'space cloud',
+    answer: 'nebula'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'begins with N',
+    hint: 'chemical',
+    answer: 'nitrogen'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'begins with T',
+    hint: 'vehicle',
+    answer: 'tesla'
   },
   {
-    category: '',
-    hint: '',
-    answer: ''
+    category: 'begins with T',
+    hint: 'country',
+    answer: 'tanzania'
   },
 ];

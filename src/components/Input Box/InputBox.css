@@ -1,0 +1,10 @@
+.pin-input__field {
+  width: 50px;
+  border-radius: 15%;
+  padding: 20px;
+  margin: 5px;
+  text-align: center;
+  background: #39383e;
+  color: white;
+  font-weight: bold;
+}

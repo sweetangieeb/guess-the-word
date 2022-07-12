@@ -1,4 +1,5 @@
 import './App.css';
+import { InputBox } from './components/Input Box';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           </h5>
         </div>
 
+        <InputBox />
       </div>
     </div>
   );
